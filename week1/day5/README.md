@@ -182,10 +182,6 @@ In real-world applications:
 👉 Tools like Flow are powerful but limited
 👉 Apex helps handle advanced requirements
 
-💡 **Key Insight:**
-
-> Enterprise systems start with configuration, but as complexity grows, programming becomes essential.
-
 ---
 
 ## 🎯 Conclusion

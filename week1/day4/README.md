@@ -133,7 +133,7 @@ Automation is very important in modern enterprise systems because:
 
 Flow Builder is a **smart and essential tool** in Salesforce that helps organizations:
 
-* Work faster ⚡
+
 * Work smarter 🧠
 * Reduce manual effort 🔄
-
+* Work faster ⚡
